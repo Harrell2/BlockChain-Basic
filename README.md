@@ -1,2 +1,2 @@
 # BlockChain-Basic
-Personal testing and creation of a blockchain
+Repository to place my created files for the project, not the full project
